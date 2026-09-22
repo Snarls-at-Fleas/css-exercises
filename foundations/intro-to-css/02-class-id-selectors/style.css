@@ -8,12 +8,12 @@
     font-size: 36px;
 }
 
-#three {
-    font-size: 24px;
-}
-
 #four {
     font-size: 24px;
     background-color: #90ee90;
     font-weight: bold;
+}
+
+.bigger {
+    font-size: 24px;
 }
